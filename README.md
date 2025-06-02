@@ -13,3 +13,19 @@ Este projeto tem como objetivo analisar a base de dados da GameShop utilizando f
 
 ## 🛠️ Ferramentas Utilizadas
 - ChatGPT
+
+## Prompts e Insights
+
+Crie uma tabela de vendas por países desse produto
+
+Aqui está a tabela de vendas do produto por país:
+País	Quantidade Vendida
+Canadá	46
+França	36
+Austrália	28
+Japão	27
+Alemanha	23
+Reino Unido	13
+EUA	5
+
+Qual a idade média por produto de cada país
